@@ -1,0 +1,161 @@
+.page .main {
+  width: 100%;
+  min-height: 100%;
+  background-color: #FFFFFF;
+  padding: 30rpx;
+}
+.page .main .top {
+  margin-top: 30rpx;
+}
+.page .main .top .title {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.page .main .top .title .top-left {
+  color: #333333;
+  font-size: 32rpx;
+  font-weight: 600;
+}
+.page .main .top .title .top-right {
+  color: #333333;
+  font-size: 28rpx;
+}
+.page .main .top .content {
+  margin-top: 15rpx;
+  position: relative;
+  height: 330rpx;
+}
+.page .main .top .content .bac-img {
+  width: 100%;
+  position: absolute;
+}
+.page .main .top .content .bac-img image {
+  width: 100%;
+  height: 324rpx;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.page .main .top .content .recharge-btn:active {
+  opacity: 0.55;
+}
+.page .main .top .content .recharge-btn {
+  font-size: 24rpx;
+  color: #FFC800;
+  position: absolute;
+  right: 0rpx;
+  top: 40rpx;
+  line-height: 51rpx;
+  text-align: center;
+  z-index: 99;
+  width: 108rpx;
+  height: 51rpx;
+  background: -webkit-linear-gradient(right, #FFF0BB 0%, #FFF9DB 100%);
+  background: linear-gradient(270deg, #FFF0BB 0%, #FFF9DB 100%);
+  border-radius: 24px 0px 0px 24px;
+}
+.page .main .top .content .money-title {
+  position: absolute;
+  top: 27%;
+  width: 100%;
+  text-align: center;
+  color: #FFFFFF;
+  font-size: 25rpx;
+}
+.page .main .top .content .money-count {
+  position: absolute;
+  top: 43%;
+  width: 100%;
+  text-align: center;
+  color: #FFFFFF;
+  font-size: 50rpx;
+}
+.page .main .bottom {
+  margin-top: 30rpx;
+}
+.page .main .bottom .title {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.page .main .bottom .title .top-left {
+  color: #333333;
+  font-size: 32rpx;
+  font-weight: 600;
+}
+.page .main .bottom .title .top-right {
+  color: #333333;
+  font-size: 28rpx;
+}
+.page .main .bottom .content {
+  margin-top: 15rpx;
+  position: relative;
+  height: 330rpx;
+}
+.page .main .bottom .content .bac-img {
+  width: 100%;
+  position: absolute;
+}
+.page .main .bottom .content .bac-img image {
+  width: 100%;
+  height: 292rpx;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.page .main .bottom .content .recharge-btn:active {
+  opacity: 0.55;
+}
+.page .main .bottom .content .recharge-btn {
+  font-size: 24rpx;
+  color: #FFC800;
+  position: absolute;
+  right: 0rpx;
+  top: 40rpx;
+  line-height: 51rpx;
+  text-align: center;
+  z-index: 99;
+  width: 108rpx;
+  height: 51rpx;
+  background: -webkit-linear-gradient(right, #FFF0BB 0%, #FFF9DB 100%);
+  background: linear-gradient(270deg, #FFF0BB 0%, #FFF9DB 100%);
+  border-radius: 24px 0px 0px 24px;
+}
+.page .main .bottom .content .money-title {
+  position: absolute;
+  top: 13%;
+  left: 8%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  color: #FFFFFF;
+  font-size: 28rpx;
+}
+.page .main .bottom .content .money-count {
+  position: absolute;
+  left: 8%;
+  top: 53%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  color: #FFFFFF;
+  font-size: 50rpx;
+}
+

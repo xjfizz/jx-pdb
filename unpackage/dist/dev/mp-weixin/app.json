@@ -1,0 +1,63 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/my/my",
+    "pages/publish/publish",
+    "pages/login/login",
+    "pages/login/login_no",
+    "pages/login/register",
+    "pages/login/registerTest",
+    "pages/my/userUpdate",
+    "pages/my/userEdit",
+    "pages/my/userDetail",
+    "pages/address/address",
+    "pages/publish/publish-edit",
+    "pages/money/money",
+    "pages/money/rcharge-list-detail",
+    "pages/money/rcharge",
+    "pages/money/rcharge-success",
+    "pages/order/orderPay",
+    "pages/order/orderDetail",
+    "pages/order/pay-success",
+    "pages/address/addressAdd",
+    "pages/address/addressEdit",
+    "pages/invoices/invoices",
+    "pages/invoices/invoicesEdit",
+    "pages/publish/publish-success",
+    "pages/common/netWork/no-netWork"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "派单宝",
+    "navigationBarBackgroundColor": "#ffffff",
+    "backgroundColor": "#FFFFFF",
+    "enablePullDownRefresh": true
+  },
+  "networkTimeout": {
+    "uploadFile": 20000,
+    "request": 20000
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于定位"
+    }
+  },
+  "usingComponents": {
+    "tab-bar": "/components/custom-tarbar/custom-tarbar",
+    "our-loading": "/components/plugins/our-loading/our-loading",
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "uni-popup-message": "/components/uni-popup/uni-popup-message",
+    "uni-popup-share": "/components/uni-popup/uni-popup-share",
+    "uni-popup-dialog": "/components/uni-popup/uni-popup-dialog",
+    "ke-fu-pop": "/components/uni-popup/kefu-popup",
+    "lxc-count": "/components/plugins/lxc-count/lxc-count",
+    "img-upload": "/components/plugins/imgUpload/imgUpload",
+    "uni-calendar": "/components/uni-calendar/uni-calendar",
+    "tab-pane": "/components/plugins/uni-tabs/wiszx-tabs/tabPane",
+    "tabs": "/components/plugins/uni-tabs/wiszx-tabs/tabs",
+    "qs-tabs": "/components/plugins/uni-tabs/QS-tabs/components/QS-tabs-wxs-list/QS-tabs-wxs-list",
+    "tab-swiper": "/components/custom-components/tab-swiper",
+    "sm-tabs": "/components/plugins/uni-tabs/sm-tabs"
+  }
+}

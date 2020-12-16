@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "def-template": "/components/plugins/uni-tabs/QS-tabs/components/QS-tabs-wxs-list/components/components/QS-tabs-wxs-template-def",
+    "swiper-template": "/components/plugins/uni-tabs/QS-tabs/components/QS-tabs-wxs-list/components/components/QS-tabs-list-home-swiper",
+    "v-show-template": "/components/plugins/uni-tabs/QS-tabs/components/QS-tabs-wxs-list/components/components/QS-tabs-list-home-vShow"
+  }
+}

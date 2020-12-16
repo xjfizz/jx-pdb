@@ -1,0 +1,1 @@
+<view class="page"><block wx:if="{{loading}}"><our-loading vue-id="358b7dac-1" active="{{true}}" text="加载中..." bind:__l="__l"></our-loading></block><view class="main"><view class="main-content"><view class="content">当前测试页</view></view></view></view>

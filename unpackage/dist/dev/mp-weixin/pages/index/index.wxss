@@ -1,0 +1,253 @@
+page.data-v-57280228 {
+  background-color: #F7F7F7 !important;
+}
+.page.data-v-57280228 {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.top-tabs.data-v-57280228 {
+  width: 100%;
+}
+.main.data-v-57280228 {
+  width: 100%;
+  height: 100%;
+  margin-bottom: 150rpx;
+}
+.main .content.data-v-57280228 {
+  width: 100%;
+  padding-left: 25rpx;
+  padding-right: 25rpx;
+  padding-bottom: 25rpx;
+}
+.main .content .item.data-v-57280228 {
+  padding-top: 10rpx;
+  margin-top: 20rpx;
+  width: 100%;
+  background: #fff;
+  border-radius: 15rpx;
+}
+.main .content .item .top.data-v-57280228 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+          justify-content: flex-start;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  padding-top: 15rpx;
+  padding-bottom: 15rpx;
+  padding-right: 15rpx;
+  padding-left: 30rpx;
+  border-bottom: 1px solid #E5E5E5;
+}
+.main .content .item .top .status-icon.data-v-57280228 {
+  width: 10rpx;
+  height: 10rpx;
+  background-color: #007AFF;
+}
+.main .content .item .top .status-text.data-v-57280228 {
+  color: #007AFF;
+  margin-left: 10rpx;
+  font-size: 27rpx;
+  letter-spacing: 1rpx;
+}
+.main .content .item .top .order-tips.data-v-57280228 {
+  background: -webkit-linear-gradient(right, #FF7F00 0%, #ffb663 100%);
+  background: linear-gradient(270deg, #FF7F00 0%, #ffb663 100%);
+  color: #FFFFFF;
+  border-radius: 40rpx;
+  padding-top: 2rpx;
+  padding-bottom: 2rpx;
+  padding-left: 12rpx;
+  padding-right: 12rpx;
+  font-size: 22rpx;
+  margin-left: 10rpx;
+}
+.main .content .item .top .item-left.data-v-57280228 {
+  margin-left: auto;
+}
+.main .content .item .top .item-left image.data-v-57280228 {
+  width: 32rpx;
+  height: 32rpx;
+}
+.main .content .item .no-bottom-btn.data-v-57280228 {
+  border-radius: 15rpx !important;
+  border: none !important;
+}
+.main .content .item .mid.data-v-57280228 {
+  margin-top: 15rpx;
+  padding-left: 30rpx;
+  padding-right: 20rpx;
+  padding-bottom: 20rpx;
+  border-bottom: 1px solid #E5E5E5;
+}
+.main .content .item .mid .mid-top.data-v-57280228 {
+  font-size: 31rpx;
+  color: #333333;
+  font-weight: 600;
+  margin-top: 10rpx;
+}
+.main .content .item .mid .mid-item.data-v-57280228 {
+  margin-top: 10rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  font-size: 28rpx;
+  color: #999999;
+}
+.main .content .item .mid .mid-item .item-left.data-v-57280228 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  width: 60%;
+}
+.main .content .item .mid .mid-item .item-left .item-value.data-v-57280228 {
+  margin-left: 10rpx;
+}
+.main .content .item .mid .mid-item .item-right.data-v-57280228 {
+  width: 40%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.main .content .item .mid .mid-item .item-right .item-value.data-v-57280228 {
+  margin-left: 10rpx;
+}
+.main .content .item .bottom.data-v-57280228 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  color: #6271AC;
+  font-size: 30rpx;
+  height: 80rpx;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.main .content .item .bottom .bottom-item.data-v-57280228:active {
+  background-color: #ece7e7;
+}
+.main .content .item .bottom .bottom-item.data-v-57280228 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  height: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  border-right: 1px solid #E5E5E5;
+}
+.main .content .item .bottom view.data-v-57280228:last-child {
+  border: none;
+}
+.main-no.data-v-57280228 {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  margin-top: 40%;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.main-no .no-image image.data-v-57280228 {
+  width: 243rpx;
+  height: 130rpx;
+}
+.main-no .no-title.data-v-57280228 {
+  color: #333333;
+  font-size: 33rpx;
+  font-weight: 600;
+}
+.main-no .no-tips.data-v-57280228 {
+  color: #999999;
+  font-size: 25rpx;
+  margin-top: 20rpx;
+}
+.main-no .publish-btn.data-v-57280228 {
+  width: 400rpx;
+  height: 80rpx;
+  background-color: #FFC800;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  border-radius: 15rpx;
+  margin-top: 55rpx;
+  color: #333333;
+  font-size: 32 upx;
+}
+.order-status-sty-1.data-v-57280228 {
+  color: #007AFF !important;
+}
+.order-status-sty-2.data-v-57280228 {
+  color: #0ACFF4 !important;
+}
+.order-status-sty-3.data-v-57280228 {
+  color: #FFC800 !important;
+}
+.order-status-sty-4.data-v-57280228 {
+  color: #1EC9FE !important;
+}
+.order-status-sty-5.data-v-57280228 {
+  color: #FF8500 !important;
+}
+.order-status-sty-6.data-v-57280228 {
+  color: #405CFF !important;
+}
+.order-status-sty-7.data-v-57280228 {
+  color: #00DB7B !important;
+}
+.isBottom.data-v-57280228 {
+  margin-top: 30rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  font-size: 25rpx;
+  color: #999999;
+}
+

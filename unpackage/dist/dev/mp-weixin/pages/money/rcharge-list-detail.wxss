@@ -1,0 +1,206 @@
+.page {
+  background-color: #f7f7f7 !important;
+}
+.page .main {
+  width: 100%;
+  margin-bottom: 200rpx;
+  background-color: #f7f7f7 !important;
+}
+.page .main .main-content {
+  width: 100%;
+  background-color: #ffffff;
+  padding-top: 30rpx;
+  padding-left: 30rpx;
+  padding-right: 30rpx;
+}
+.page .main .main-content .top {
+  margin-top: 30rpx;
+}
+.page .main .main-content .top .content {
+  margin-top: 15rpx;
+  position: relative;
+  height: 330rpx;
+  background-color: #FFFFFF;
+}
+.page .main .main-content .top .content .bac-img {
+  width: 100%;
+  position: absolute;
+}
+.page .main .main-content .top .content .bac-img image {
+  width: 100%;
+  height: 324rpx;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.page .main .main-content .top .content .money-title {
+  position: absolute;
+  top: 27%;
+  width: 100%;
+  text-align: center;
+  color: #FFFFFF;
+  font-size: 25rpx;
+}
+.page .main .main-content .top .content .money-count {
+  position: absolute;
+  top: 43%;
+  width: 100%;
+  text-align: center;
+  color: #FFFFFF;
+  font-size: 50rpx;
+}
+.page .main .bottom {
+  width: 100%;
+  background-color: #ffffff;
+  padding-top: 30rpx;
+  padding-left: 30rpx;
+  padding-right: 30rpx;
+}
+.page .main .bottom .bottom-item {
+  width: 100%;
+  padding-top: 15rpx;
+  padding-bottom: 15rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  border-bottom: 1px solid #E5E5E5;
+}
+.page .main .bottom .bottom-item .item-left {
+  width: 70%;
+}
+.page .main .bottom .bottom-item .item-left .left-top {
+  padding-top: 8rpx;
+  padding-bottom: 8rpx;
+  color: #333333;
+  font-size: 30rpx;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.page .main .bottom .bottom-item .item-left .left-top-fail {
+  padding-top: 8rpx;
+  padding-bottom: 8rpx;
+  color: #999999;
+  font-size: 30rpx;
+}
+.page .main .bottom .bottom-item .item-left .left-bottom {
+  padding-top: 8rpx;
+  padding-bottom: 8rpx;
+  color: #999999;
+  font-size: 26rpx;
+}
+.page .main .bottom .bottom-item .item-right {
+  color: #FFC800;
+  font-size: 32rpx;
+  font-weight: 600;
+}
+.page .main .bottom .bottom-item .item-right-fail {
+  color: #999999;
+  font-size: 32rpx;
+  font-weight: 600;
+  text-decoration: line-through;
+}
+.page .main .bottom .bottom-item .item-right-add {
+  color: #00DB7B;
+  font-size: 32rpx;
+  font-weight: 600;
+}
+.page .main .bottom .bottom-item .item-right-add-fail {
+  color: #999999;
+  font-size: 32rpx;
+  font-weight: 600;
+  text-decoration: line-through;
+}
+.page .main .bottom-item:nth-last-child(1) {
+  border-bottom: none;
+}
+.page .main .sub-btn:active {
+  opacity: 0.55;
+}
+.page .main .sub-btn {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  background-color: #FFC800;
+  height: 90rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  color: #333333;
+  font-size: 28rpx;
+}
+.isBottom {
+  margin-top: 30rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  font-size: 25rpx;
+  color: #999999;
+}
+.main-no {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  margin-top: 200rpx;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.main-no .no-image image {
+  width: 243rpx;
+  height: 130rpx;
+}
+.main-no .no-title {
+  color: #999999;
+  font-size: 33rpx;
+  font-weight: 600;
+}
+.main-no .no-tips {
+  color: #999999;
+  font-size: 25rpx;
+  margin-top: 20rpx;
+}
+.main-no .publish-btn:active {
+  opacity: 0.55;
+}
+.main-no .publish-btn {
+  width: 400rpx;
+  height: 80rpx;
+  background-color: #FFC800;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  border-radius: 15rpx;
+  margin-top: 55rpx;
+  color: #333333;
+  font-size: 32 upx;
+}
+

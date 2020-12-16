@@ -1,0 +1,1 @@
+<view class="page"><view class="main-no"><view class="no-image"><image src="../../static/img/money/rcharge-success.png"></image></view><view class="no-title">充值成功</view><view class="no-tips">恭喜您,已成功充值~</view><view data-event-opts="{{[['tap',[['back',['$event']]]]]}}" class="publish-btn" bindtap="__e">返回</view></view></view>

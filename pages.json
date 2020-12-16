@@ -1,0 +1,197 @@
+{
+	"pages": [{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "订单"
+			}
+		},
+		{
+			"path": "pages/my/my",
+			"style": {
+				"navigationBarTitleText": "我的",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/publish/publish",
+			"style": {
+				"navigationBarTitleText": "下单",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "登陆"
+			}
+		},
+		{
+			"path": "pages/login/login_no",
+			"style": {
+				"navigationBarTitleText": "未登录"
+			}
+		},
+		{
+			"path": "pages/login/register",
+			"style": {
+				"navigationBarTitleText": "注册"
+			}
+		},
+		{
+			"path": "pages/login/registerTest",
+			"style": {
+				"navigationBarTitleText": "注册测试"
+			}
+		},
+		{
+			"path": "pages/my/userUpdate",
+			"style": {
+				"navigationBarTitleText": "更新资料"
+			}
+		},
+		{
+			"path": "pages/my/userEdit",
+			"style": {
+				"navigationBarTitleText": "我的资料"
+			}
+		},
+		{
+			"path": "pages/my/userDetail",
+			"style": {
+				"navigationBarTitleText": "我的资料"
+			}
+		},
+		{
+			"path": "pages/address/address",
+			"style": {
+				"navigationBarTitleText": "地址管理"
+			}
+		},
+		{
+			"path": "pages/publish/publish-edit",
+			"style": {
+				"navigationBarTitleText": "订单修改",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/money/money",
+			"style": {
+				"navigationBarTitleText": "我的钱包",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/money/rcharge-list-detail",
+			"style": {
+				"navigationBarTitleText": "余额明细"
+			}
+		},
+		{
+			"path": "pages/money/rcharge",
+			"style": {
+				"navigationBarTitleText": "充值",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/money/rcharge-success",
+			"style": {
+				"navigationBarTitleText": "充值"
+			}
+		},
+		{
+			"path": "pages/order/orderPay",
+			"style": {
+				"navigationBarTitleText": "支付"
+			}
+		},
+		{
+			"path": "pages/order/orderDetail",
+			"style": {
+				"navigationBarTitleText": "订单详情",
+				"enablePullDownRefresh": false
+				
+			}
+		},
+		{
+			"path": "pages/order/pay-success",
+			"style": {
+				"navigationBarTitleText": "支付"
+			}
+		},
+		{
+			"path": "pages/address/addressAdd",
+			"style": {
+				"navigationBarTitleText": "新增地址",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/address/addressEdit",
+			"style": {
+				"navigationBarTitleText": "修改地址",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/invoices/invoices",
+			"style": {
+				"navigationBarTitleText": "发票管理"
+			}
+		},
+		{
+			"path": "pages/invoices/invoicesEdit",
+			"style": {
+				"navigationBarTitleText": "更改发票"
+			}
+		},
+		{
+			"path": "pages/publish/publish-success",
+			"style": {
+				"navigationBarTitleText": "下单成功"
+			}
+		},
+		{
+			"path": "pages/common/netWork/no-netWork",
+			"style": {
+				"navigationBarTitleText": "网络连接"
+			}
+		}
+	],
+
+	// "tabBar": {
+	// 	"color": "#7a7e83",
+	// 	"selectedColor": "#0055FF",
+	// 	"list": [{
+	// 			"backgroundColor": "#0074ca",
+
+	// 			"pagePath": "pages/index/index",
+	// 			"text": "首页",
+	// 			"iconPath": "static/img/menu/home.png",
+	// 			"selectedIconPath": "static/img/menu/homeHL.png"
+	// 		},
+	// 		{
+	// 			"backgroundColor": "#0074ca",
+	// 			"pagePath": "pages/my/my",
+	// 			"text": "我的",
+	// 			"iconPath": "static/img/menu/user.png",
+	// 			"selectedIconPath": "static/img/menu/userHL.png"
+	// 		}
+	// 	]
+	// },
+
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "派单宝",
+		"navigationBarBackgroundColor": "#ffffff",
+		"backgroundColor": "#FFFFFF",
+		"enablePullDownRefresh": true
+	},
+
+	"permission": {
+		"scope.userLocation": {
+			"desc": "你的位置信息将用于定位" // 高速公路行驶持续后台定位
+		}
+	}
+}

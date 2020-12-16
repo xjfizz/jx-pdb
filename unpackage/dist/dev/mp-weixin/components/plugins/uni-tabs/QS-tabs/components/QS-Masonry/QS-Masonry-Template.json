@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "def": "/components/plugins/uni-tabs/QS-tabs/components/QS-Masonry/components/QS-Masonry-Template-Def"
+  }
+}

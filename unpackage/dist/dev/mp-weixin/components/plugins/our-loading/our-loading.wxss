@@ -1,0 +1,32 @@
+
+.mask.data-v-0f47cb8d {
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 130rpx; 
+	z-index: 3000;
+	-webkit-transition: opacity .3s linear;
+	transition: opacity .3s linear;
+}
+.full-screen.data-v-0f47cb8d {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.spinner.data-v-0f47cb8d {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	text-align: center;
+}
+.fade-enter-active.data-v-0f47cb8d, .fade-leave-active.data-v-0f47cb8d {
+  -webkit-transition: opacity .3s;
+  transition: opacity .3s;
+}
+.fade-enter.data-v-0f47cb8d, .fade-leave-to.data-v-0f47cb8d {
+  opacity: 0;
+}
+

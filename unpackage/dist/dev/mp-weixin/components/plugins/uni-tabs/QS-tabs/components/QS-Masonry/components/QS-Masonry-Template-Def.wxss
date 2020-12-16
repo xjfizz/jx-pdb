@@ -1,0 +1,67 @@
+view.data-v-0d03b2a8,
+scroll-view.data-v-0d03b2a8,
+swiper.data-v-0d03b2a8,
+swiper-item.data-v-0d03b2a8,
+cover-view.data-v-0d03b2a8,
+cover-image.data-v-0d03b2a8,
+icon.data-v-0d03b2a8,
+text.data-v-0d03b2a8,
+rich-text.data-v-0d03b2a8,
+progress.data-v-0d03b2a8,
+button.data-v-0d03b2a8,
+checkbox.data-v-0d03b2a8,
+form.data-v-0d03b2a8,
+input.data-v-0d03b2a8,
+label.data-v-0d03b2a8,
+radio.data-v-0d03b2a8,
+slider.data-v-0d03b2a8,
+switch.data-v-0d03b2a8,
+textarea.data-v-0d03b2a8,
+navigator.data-v-0d03b2a8,
+audio.data-v-0d03b2a8,
+camera.data-v-0d03b2a8,
+image.data-v-0d03b2a8,
+video.data-v-0d03b2a8,
+picker-view.data-v-0d03b2a8,
+picker-view-column.data-v-0d03b2a8 {
+	box-sizing: border-box;
+}
+.container.data-v-0d03b2a8{
+	width: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	border-radius: 10rpx;
+	overflow: hidden;
+	padding: 15rpx;
+	background-color: #fff;
+}
+.image-box.data-v-0d03b2a8{
+	width: 100%;
+	position: relative;
+	height: 0;
+	padding-top: 100%;
+}
+.image.data-v-0d03b2a8{
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	border-top-left-radius: 20rpx;
+	border-top-right-radius: 20rpx;
+}
+.img.data-v-0d03b2a8{
+	width: 100%;
+	height: auto;
+}
+.text.data-v-0d03b2a8{
+	font-size: 28rpx;
+	color: #999999;
+	margin-top: 25rpx;
+}
+

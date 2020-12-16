@@ -1,0 +1,10 @@
+.page .main {
+  width: 100%;
+  margin-bottom: 150rpx;
+  background-color: #F7F7F7;
+}
+.page .main .main-content .content {
+  padding: 25rpx;
+  width: 100%;
+}
+

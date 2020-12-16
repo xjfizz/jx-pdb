@@ -1,0 +1,58 @@
+.page .main {
+  width: 100%;
+  margin-bottom: 150rpx;
+  background-color: #F7F7F7;
+}
+.page .main .main-content .content {
+  padding: 30rpx;
+  border-radius: 15rpx;
+  background-color: #FFFFFF;
+}
+.page .main .main-content .content .item {
+  padding: 20rpx;
+}
+.page .main .main-content .content .item .item-title {
+  margin-top: 10rpx;
+  margin-bottom: 20rpx;
+  color: #333333;
+  font-size: 25rpx;
+}
+.page .main .main-content .content .item .item-value {
+  margin-top: 20rpx;
+  margin-bottom: 10rpx;
+  color: #333333;
+  font-size: 25rpx;
+}
+.page .main .main-content .content .item .item-value input {
+  background-color: #F7F7F7 !important;
+  border-radius: 15rpx;
+  border: 1px solid #F7F7F7;
+  height: 70rpx;
+  padding: 15rpx;
+}
+.page .main .main-content .content .item:last-child {
+  border-top: 1px solid #E5E5E5;
+}
+.page .main .main-content .edit-btn {
+  margin: 30rpx;
+  background-color: #ffc800;
+  height: 70rpx;
+  border-radius: 15rpx;
+  margin-top: 20rpx;
+  color: #333333;
+  font-size: 30rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.page .main .main-content .edit-btn-no {
+  background-color: #FFEBA4;
+  color: #FFFFFF;
+}
+

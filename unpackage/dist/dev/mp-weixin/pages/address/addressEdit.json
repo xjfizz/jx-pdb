@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "修改地址",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "pick-regions": "/components/pick-regions/pick-regions"
+  }
+}

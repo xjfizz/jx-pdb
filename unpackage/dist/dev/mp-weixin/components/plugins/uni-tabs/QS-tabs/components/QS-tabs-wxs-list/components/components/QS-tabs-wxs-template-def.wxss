@@ -1,0 +1,85 @@
+view.data-v-2b01f4ca,
+scroll-view.data-v-2b01f4ca,
+swiper.data-v-2b01f4ca,
+swiper-item.data-v-2b01f4ca,
+cover-view.data-v-2b01f4ca,
+cover-image.data-v-2b01f4ca,
+icon.data-v-2b01f4ca,
+text.data-v-2b01f4ca,
+rich-text.data-v-2b01f4ca,
+progress.data-v-2b01f4ca,
+button.data-v-2b01f4ca,
+checkbox.data-v-2b01f4ca,
+form.data-v-2b01f4ca,
+input.data-v-2b01f4ca,
+label.data-v-2b01f4ca,
+radio.data-v-2b01f4ca,
+slider.data-v-2b01f4ca,
+switch.data-v-2b01f4ca,
+textarea.data-v-2b01f4ca,
+navigator.data-v-2b01f4ca,
+audio.data-v-2b01f4ca,
+camera.data-v-2b01f4ca,
+image.data-v-2b01f4ca,
+video.data-v-2b01f4ca,
+picker-view.data-v-2b01f4ca,
+picker-view-column.data-v-2b01f4ca {
+	box-sizing: border-box;
+}
+.scroll-item.data-v-2b01f4ca {
+	width: 100%;
+	padding: 28rpx;
+	background-color: white;
+	border-radius: 8px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	margin-bottom: 35rpx;
+}
+.scroll-item-image.data-v-2b01f4ca {
+	background-color: #F8F8F8;
+	border-radius: 8px;
+	height: 220rpx;
+	width: 40%;
+}
+.scroll-item-text.data-v-2b01f4ca {
+	width: 55%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	font-size: 16px;
+	color: #666;
+}
+.statusText.data-v-2b01f4ca {
+	height: 40px;
+	width: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	font-size: 30rpx;
+}
+

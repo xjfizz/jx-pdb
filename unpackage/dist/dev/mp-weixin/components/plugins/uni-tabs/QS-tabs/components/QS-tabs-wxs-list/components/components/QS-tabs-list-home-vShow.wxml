@@ -1,0 +1,1 @@
+<block wx:if="{{show}}"><view class="data-v-44f39267"><button class="btn data-v-44f39267" type="primary" data-event-opts="{{[['tap',[['openWin',['vShow']]]]]}}" bindtap="__e">vShow模式 示例1</button><button class="btn data-v-44f39267" type="primary" data-event-opts="{{[['tap',[['openWin',['vShow2']]]]]}}" bindtap="__e">vShow模式 示例2</button></view></block>

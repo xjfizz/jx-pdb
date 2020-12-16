@@ -1,0 +1,32 @@
+view.data-v-50208c58,
+scroll-view.data-v-50208c58,
+swiper.data-v-50208c58,
+swiper-item.data-v-50208c58,
+cover-view.data-v-50208c58,
+cover-image.data-v-50208c58,
+icon.data-v-50208c58,
+text.data-v-50208c58,
+rich-text.data-v-50208c58,
+progress.data-v-50208c58,
+button.data-v-50208c58,
+checkbox.data-v-50208c58,
+form.data-v-50208c58,
+input.data-v-50208c58,
+label.data-v-50208c58,
+radio.data-v-50208c58,
+slider.data-v-50208c58,
+switch.data-v-50208c58,
+textarea.data-v-50208c58,
+navigator.data-v-50208c58,
+audio.data-v-50208c58,
+camera.data-v-50208c58,
+image.data-v-50208c58,
+video.data-v-50208c58,
+picker-view.data-v-50208c58,
+picker-view-column.data-v-50208c58 {
+	box-sizing: border-box;
+}
+.btn.data-v-50208c58 {
+	margin-top: 20px;
+}
+

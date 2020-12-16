@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "注册测试",
+  "usingComponents": {
+    "pick-regions": "/components/pick-regions/pick-regions"
+  }
+}

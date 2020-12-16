@@ -1,0 +1,59 @@
+view.data-v-1667afea,
+scroll-view.data-v-1667afea,
+swiper.data-v-1667afea,
+swiper-item.data-v-1667afea,
+cover-view.data-v-1667afea,
+cover-image.data-v-1667afea,
+icon.data-v-1667afea,
+text.data-v-1667afea,
+rich-text.data-v-1667afea,
+progress.data-v-1667afea,
+button.data-v-1667afea,
+checkbox.data-v-1667afea,
+form.data-v-1667afea,
+input.data-v-1667afea,
+label.data-v-1667afea,
+radio.data-v-1667afea,
+slider.data-v-1667afea,
+switch.data-v-1667afea,
+textarea.data-v-1667afea,
+navigator.data-v-1667afea,
+audio.data-v-1667afea,
+camera.data-v-1667afea,
+image.data-v-1667afea,
+video.data-v-1667afea,
+picker-view.data-v-1667afea,
+picker-view-column.data-v-1667afea {
+	box-sizing: border-box;
+}
+.container.data-v-1667afea {
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+.scrollView.data-v-1667afea {
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+.scroll-container.data-v-1667afea {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	padding: 30rpx;
+}
+.scroll-container.freeze.data-v-1667afea {
+	height: 100%;
+	overflow: hidden;
+}
+.width100.data-v-1667afea {
+	width: 100%;
+}
+

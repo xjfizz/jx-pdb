@@ -1,0 +1,32 @@
+view.data-v-44f39267,
+scroll-view.data-v-44f39267,
+swiper.data-v-44f39267,
+swiper-item.data-v-44f39267,
+cover-view.data-v-44f39267,
+cover-image.data-v-44f39267,
+icon.data-v-44f39267,
+text.data-v-44f39267,
+rich-text.data-v-44f39267,
+progress.data-v-44f39267,
+button.data-v-44f39267,
+checkbox.data-v-44f39267,
+form.data-v-44f39267,
+input.data-v-44f39267,
+label.data-v-44f39267,
+radio.data-v-44f39267,
+slider.data-v-44f39267,
+switch.data-v-44f39267,
+textarea.data-v-44f39267,
+navigator.data-v-44f39267,
+audio.data-v-44f39267,
+camera.data-v-44f39267,
+image.data-v-44f39267,
+video.data-v-44f39267,
+picker-view.data-v-44f39267,
+picker-view-column.data-v-44f39267 {
+	box-sizing: border-box;
+}
+.btn.data-v-44f39267 {
+	margin-top: 20px;
+}
+
